@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/vaporeta-polti", {data:[{}],fetch:{},mutations:void 0});
