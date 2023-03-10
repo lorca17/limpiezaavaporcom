@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/vaporeta-hoover-scm-1600", {data:[{}],fetch:{},mutations:void 0});

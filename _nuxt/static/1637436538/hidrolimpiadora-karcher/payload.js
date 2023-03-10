@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/hidrolimpiadora-karcher", {data:[{}],fetch:{},mutations:void 0});

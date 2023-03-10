@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/limpiador-a-vapor-de-mano", {data:[{}],fetch:{},mutations:void 0});
